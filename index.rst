@@ -19,6 +19,12 @@ first-timers. Strategies and pro tips provide ways you can make the most
 of the conference. The FAQs strive to answer questions before you even
 have them.
 
+Contribute
+----------
+
+We welcome your contribution to the Welcome Wagon. Propose a PR on our `GitHub
+repo <https://github.com/pycascades/welcome-wagon-2018>`_.
+
 Welcome Wagon events
 --------------------
 

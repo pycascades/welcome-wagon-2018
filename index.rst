@@ -300,7 +300,7 @@ Thanks
 
 This document was inspired by other conferences doing great work in this area.
 In particular,
-these two documents were heavily used as a reference:
+these three documents were heavily used as a reference:
 
 * Double your Audience Microconference Guide
 * http://www.pydanny.com/beginners-guide-pycon-2014.html

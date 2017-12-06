@@ -175,7 +175,7 @@ public transportation or a taxi there.
 -  If you have a question during a talk, make a note of it and use it as
    a conversation starter with the speaker.
 -  After a talk, feel free to tweet about it with the hashtag
-   #writethedocs. Try not to "watch" the conference through Twitter and
+   #pycascades. Try not to "watch" the conference through Twitter and
    other social media, though. You are attending the conference, so live
    in it as much as you can!
 
@@ -232,7 +232,7 @@ are some tips:
 
 -  Find out who is attending the conference before you get there. Join
    the `PyCascades Slack <http://pycascades-slack.herokuapp.com/>`__, follow
-   the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
+   `PyCascades on Twitter <https://twitter.com/pycascades>`__,
    and review the `list of
    speakers <http://www.writethedocs.org/conf/na/2017/speakers/>`__.
 -  Figure out which companies will be represented at the conference. If

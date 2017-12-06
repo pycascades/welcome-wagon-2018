@@ -231,7 +231,7 @@ people you meet. Set a goal for yourself to meet a few, new people. Here
 are some tips:
 
 -  Find out who is attending the conference before you get there. Join
-   the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
+   the `PyCascades Slack <http://pycascades-slack.herokuapp.com/>`__, follow
    the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of
    speakers <http://www.writethedocs.org/conf/na/2017/speakers/>`__.
@@ -248,10 +248,10 @@ are some tips:
    connections. That is what the Write the Docs conference is about, so
    go for it! Introduce yourself.
 
-**Sample strategy for my first Write the Docs conference**
+**Sample strategy for my first PyCascades conference**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__,
+-  Join the `PyCascades Slack <http://pycascades-slack.herokuapp.com/>`__,
    and participate in the Welcome Wagon chat room to start making
    conference connections.
 -  Make a list of two people who are attending with some notes about
@@ -268,7 +268,7 @@ are some tips:
 -  Check out the lightning talks, and get excited about presenting one
    at next year's conference.
 
-**Sample strategy for a second or higher Write the Docs conference**
+**Sample strategy for a second or higher conference**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Attend the Welcome Wagon events and share your conference knowledge.

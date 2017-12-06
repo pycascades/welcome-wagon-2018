@@ -116,13 +116,11 @@ public transportation or a taxi there.
 **How should I dress?**
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Portland is a casual-dress town and so is the Write the Docs
+-  Vancouver is a casual-dress town and so is the PyCascades
    conference. You'll be meeting business colleagues at this conference,
    though, so neat and comfortable are good dress guidelines.
 
--  If you are going on the `Write the Docs hike on
-   Saturday <http://www.writethedocs.org/conf/na/2017/hike/>`__, be sure
-   to bring appropriate hiking clothes and shoes. This time of year, the
+-  This time of year, the
    Pacific Northwest tends to be muddy or raining with occasional swaths
    of blue skies. Layering is usually the way to go.
 

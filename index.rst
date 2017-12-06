@@ -116,13 +116,11 @@ public transportation or a taxi there.
 **How should I dress?**
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Portland is a casual-dress town and so is the Write the Docs
+-  Vancouver is a casual-dress town and so is the PyCascades
    conference. You'll be meeting business colleagues at this conference,
    though, so neat and comfortable are good dress guidelines.
 
--  If you are going on the `Write the Docs hike on
-   Saturday <http://www.writethedocs.org/conf/na/2017/hike/>`__, be sure
-   to bring appropriate hiking clothes and shoes. This time of year, the
+-  This time of year, the
    Pacific Northwest tends to be muddy or raining with occasional swaths
    of blue skies. Layering is usually the way to go.
 
@@ -175,7 +173,7 @@ public transportation or a taxi there.
 -  If you have a question during a talk, make a note of it and use it as
    a conversation starter with the speaker.
 -  After a talk, feel free to tweet about it with the hashtag
-   #writethedocs. Try not to "watch" the conference through Twitter and
+   #pycascades. Try not to "watch" the conference through Twitter and
    other social media, though. You are attending the conference, so live
    in it as much as you can!
 
@@ -231,10 +229,10 @@ people you meet. Set a goal for yourself to meet a few, new people. Here
 are some tips:
 
 -  Find out who is attending the conference before you get there. Join
-   the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
-   the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
+   the `PyCascades Slack <http://pycascades-slack.herokuapp.com/>`__, follow
+   `PyCascades on Twitter <https://twitter.com/pycascades>`__,
    and review the `list of
-   speakers <http://www.writethedocs.org/conf/na/2017/speakers/>`__.
+   talks <https://www.pycascades.com/talks/>`__.
 -  Figure out which companies will be represented at the conference. If
    you see a job post you're interested in, you might want to ask them a
    few questions. This might be a great time to better understand what
@@ -248,10 +246,10 @@ are some tips:
    connections. That is what the Write the Docs conference is about, so
    go for it! Introduce yourself.
 
-**Sample strategy for my first Write the Docs conference**
+**Sample strategy for my first PyCascades conference**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__,
+-  Join the `PyCascades Slack <http://pycascades-slack.herokuapp.com/>`__,
    and participate in the Welcome Wagon chat room to start making
    conference connections.
 -  Make a list of two people who are attending with some notes about
@@ -268,7 +266,7 @@ are some tips:
 -  Check out the lightning talks, and get excited about presenting one
    at next year's conference.
 
-**Sample strategy for a second or higher Write the Docs conference**
+**Sample strategy for a second or higher conference**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Attend the Welcome Wagon events and share your conference knowledge.

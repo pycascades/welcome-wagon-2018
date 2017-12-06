@@ -234,7 +234,7 @@ are some tips:
    the `PyCascades Slack <http://pycascades-slack.herokuapp.com/>`__, follow
    `PyCascades on Twitter <https://twitter.com/pycascades>`__,
    and review the `list of
-   speakers <http://www.writethedocs.org/conf/na/2017/speakers/>`__.
+   talks <https://www.pycascades.com/talks/>`__.
 -  Figure out which companies will be represented at the conference. If
    you see a job post you're interested in, you might want to ask them a
    few questions. This might be a great time to better understand what

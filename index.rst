@@ -31,7 +31,7 @@ Welcome Wagon events
 
 **PyCascades Welcome Wagon Introduction**
 
-*Sunday, Jan 21st at ?? *
+*Sunday, Jan 21st at ??*
 
 Join us for an informal Introduction to PyCascades, to the Welcome Wagon, and
 to other first-time conference attendees. We’ll pass on some information about

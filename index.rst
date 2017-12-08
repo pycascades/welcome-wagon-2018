@@ -31,7 +31,7 @@ Welcome Wagon events
 
 **PyCascades Welcome Wagon Introduction**
 
-*Sunday, Jan 21st at ?? *
+*Sunday, Jan 21st at ??*
 
 Join us for an informal Introduction to PyCascades, to the Welcome Wagon, and
 to other first-time conference attendees. We’ll pass on some information about
@@ -163,7 +163,7 @@ public transportation or a taxi there.
 **What should I do during the talks?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:doc:`/conf/na/2017/speakers/`
+`Talks list <https://www.pycascades.com/talks/>`_.
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.

@@ -141,6 +141,19 @@ public transportation or a taxi there.
 
 -  If you need grocery items, there is ??
 
+**Places to eat**
+
+- `Lee's Donuts <http://granvilleisland.com/directory/lees-donuts>`_
+
+- `Tuc Craft Kitchen <http://www.tuccraftkitchen.com/`_
+
+- `The Flying Pig <http://theflyingpigvan.com/>`_
+
+- `Edible Canada <https://ediblecanada.com/>`_
+
+- `Storm Crow <https://www.stormcrowalehouse.com/>`_
+
+
 **Where should I sit?**
 ~~~~~~~~~~~~~~~~~~~~~~~
 

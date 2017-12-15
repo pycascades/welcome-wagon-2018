@@ -120,6 +120,13 @@ public transportation or a taxi there.
    Pacific Northwest tends to be muddy or raining with occasional swaths
    of blue skies. Layering is usually the way to go.
 
+** What's the weather like?**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Warmed by Pacific Ocean currents and protected by a range of mountains, Vancouver's weather is mild year-round. 
+  From high 70's Fahrenheit (low 20's Celsius) in summer to a mild mid 40's Fahrenheit (0º to 5º Celsius) in winter, 
+  the climate is always hospitable. The winters are wet, but it rarely snows, except on the local ski hills. `Read more <https://www.tourismvancouver.com/vancouver/weather/>`_
+
 **What will I eat?**
 ~~~~~~~~~~~~~~~~~~~~
 

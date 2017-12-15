@@ -86,11 +86,12 @@ FAQs
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 The main conference takes place in Granville Island Stage at `1585 Johnston
-Street. <https://www.google.com/maps/place/1585+Johnston+St,+Vancouver,+BC+V6H+3R9,+Canada/@49.2722617,-123.1365104,17z/data=!3m1!4b1!4m5!3m4!1s0x548673ce6ec8ce05:0x7343084e132bd23b!8m2!3d49.2722617!4d-123.1343217>`_
+Street.
+<https://www.google.com/maps/place/1585+Johnston+St,+Vancouver,+BC+V6H+3R9,+Canada>`_
 
 The sprints on Wednesday, January 24th, is at a **different** venue:
-**#400 - 455 Granville Street**.
-
+`#400 - 455 Granville Street.
+<https://www.google.com/maps/place/455+Granville+St,+Vancouver,+BC+V6C+1T1,+Canada>`_
 If you are joining in the ?ski? on Saturday, you'll meet the other ?skiers?
 at the ???. You can take
 public transportation or a taxi there.

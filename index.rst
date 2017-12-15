@@ -145,7 +145,7 @@ public transportation or a taxi there.
 
 - `Lee's Donuts <http://granvilleisland.com/directory/lees-donuts>`_
 
-- `Tuc Craft Kitchen <http://www.tuccraftkitchen.com/`_
+- `Tuc Craft Kitchen <http://www.tuccraftkitchen.com/>`_
 
 - `The Flying Pig <http://theflyingpigvan.com/>`_
 

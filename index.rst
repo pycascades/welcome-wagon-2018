@@ -99,16 +99,11 @@ public transportation or a taxi there.
 **How should I get around?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Portland is a very walk-able town. Most of the events and `the
-   suggested
-   hotels <http://www.writethedocs.org/conf/na/2017/visiting/>`_ are
-   within walking distance of the conference venue, the Crystal
-   Ballroom.
-
--  There are good public transportation options and taxi services. Check
-   out the `Visiting Portland section of the Write the Docs
-   website <http://www.writethedocs.org/conf/na/2017/visiting/>`_ for
-   more info.
+Vancouver has a very useful `public transit system
+<https://www.tourismvancouver.com/plan-your-trip/getting-around/transit-system/>`_.
+The majority of the must-see places are in its reach. There are buses, trains, and
+ferries available. There are also two private companies that operate small ferries
+across False Creek.
 
 **How should I dress?**
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,6 +115,13 @@ public transportation or a taxi there.
 -  This time of year, the
    Pacific Northwest tends to be muddy or raining with occasional swaths
    of blue skies. Layering is usually the way to go.
+
+**What's the weather like?**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- The weather is mosty mild. You can expect temperatures in the mid 40's Fahrenheit
+  (0º to 5º Celsius) during the conference dates. It gets fairly wet, but snow is not
+  usually a problem. `Read more <https://www.tourismvancouver.com/vancouver/weather/>`_.
 
 **What will I eat?**
 ~~~~~~~~~~~~~~~~~~~~
@@ -141,6 +143,19 @@ public transportation or a taxi there.
    more people.
 
 -  If you need grocery items, there is ??
+
+**Places to eat**
+
+- `Lee's Donuts <http://granvilleisland.com/directory/lees-donuts>`_
+
+- `Tuc Craft Kitchen <http://www.tuccraftkitchen.com/>`_
+
+- `The Flying Pig <http://theflyingpigvan.com/>`_
+
+- `Edible Canada <https://ediblecanada.com/>`_
+
+- `Storm Crow <https://www.stormcrowalehouse.com/>`_
+
 
 **Where should I sit?**
 ~~~~~~~~~~~~~~~~~~~~~~~

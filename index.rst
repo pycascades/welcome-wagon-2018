@@ -98,11 +98,7 @@ public transportation or a taxi there.
 **How should I get around?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Vancouver boasts an accessible and convenient `public transit system <https://www.tourismvancouver.com/plan-your-trip/getting-around/transit-system/>`_, offering a great way for visitors to see the city. Most of Vancouver’s top attractions are reachable via transit. TransLink is Metro Vancouver’s regional transportation authority, and operates a public transit system made up of a network of buses, the SkyTrain, and the SeaBus, as well as the West Coast Express commuter train service.
-
-The `TransLink website <https://www.translink.ca/>`_ is a great place to find current schedules, fare information, and trip planning tools to help you get around while in Vancouver. You can also call 604.953.3333 for customer service.
-
-In addition to public transit options, two companies operate small ferries cross False Creek to the south of the downtown core, which also make a fun, convenient way to see Vancouver.
+Vancouver has a very useful `public transit system <https://www.tourismvancouver.com/plan-your-trip/getting-around/transit-system/>`_. The majority of the must-see places are in it's reach. There are buses, trains, and ferris available. There are also two private companies that operate small ferries across False Creek.
 
 **How should I dress?**
 ~~~~~~~~~~~~~~~~~~~~~~~

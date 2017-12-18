@@ -26,37 +26,6 @@ Contribute
 We welcome your contribution to the Welcome Wagon. Propose a PR on our `GitHub
 repo <https://github.com/pycascades/welcome-wagon-2018>`_.
 
-Welcome Wagon events
---------------------
-
-
-**PyCascades Welcome Wagon Introduction**
-
-*Sunday, Jan 21st at ??*
-
-Join us for an informal Introduction to PyCascades, to the Welcome Wagon, and
-to other first-time conference attendees. We’ll pass on some information about
-the conference specifically for first-timers and give everyone a chance to meet
-someone new, before we join the opening reception.
-
-
-**Welcome Wagon Tours**
-
-*Sunday, Jan 21st throughout the day and Monday, Jan 22nd at ?? starting in the
-??*
-
-Come on a short tour of the venue with a veteran PyCascades attendee so you’ll
-know where everything is and everything you can take part in.
-
-**Welcome Wagon Check-In**
-
-*Tuesday, Jan 23rd at ?? in ??*
-
-Meet back up with the Welcome Wagon and fellow first-timers to check-in about
-how the conference is going for you. Ask any questions you have, pass on stories
-from your first day, and let the Welcome Wagon know if there is anything you need
-to make your second day as successful as your first one.
-
 Pro Tips
 --------
 
@@ -84,6 +53,9 @@ FAQs
 
 **Where is everything?**
 ~~~~~~~~~~~~~~~~~~~~~~~~
+
+The pre-registration event takes place at ?? on Sunday, January 21st, 2017 at
+6 PM. More details to come.
 
 The main conference takes place in Granville Island Stage at `1585 Johnston
 Street.
@@ -190,6 +162,9 @@ across False Creek.
 **What are lightning talks, and should I give one?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+-  Lightning talks will take place on both main conference days, right
+   after lunch, from 1:50PM to 2:20 PM.
+   
 -  A lightning talk is a five-minute talk where you quickly share a
    concept or bit of info you find interesting.
 

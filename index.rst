@@ -77,6 +77,9 @@ The majority of the must-see places are in its reach. There are buses, trains, a
 ferries available. There are also two private companies that operate small ferries
 across False Creek.
 
+At the moment, there are is ridesharing service like Uber or Lyft in Vancouver. We
+highly recommend using public transit.
+
 **How should I dress?**
 ~~~~~~~~~~~~~~~~~~~~~~~
 

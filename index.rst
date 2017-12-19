@@ -14,11 +14,9 @@ come :ref:`say hello <say-hello-vancouver2018>`.
 
 We've gathered important stuff here that will help you navigate the
 conference like a pro, make you feel more at home, and help you to
-manage the constant flow of information. The Welcome Wagon events warm
-up new attendees and connect them with people, both veterans and other
-first-timers. Strategies and pro tips provide ways you can make the most
-of the conference. The FAQs strive to answer questions before you even
-have them.
+manage the constant flow of information. Strategies and pro tips provide
+ways you can make the most of the conference. The FAQs strive to answer
+questions before you even have them.
 
 Contribute
 ----------
@@ -54,19 +52,16 @@ FAQs
 **Where is everything?**
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-The pre-registration event takes place at ?? on Sunday, January 21st, 2017 at
+The pre-registration event takes place at ?? on Sunday, January 21st, 2018 at
 6 PM. More details to come.
 
 The main conference takes place in Granville Island Stage at `1585 Johnston
 Street.
-<https://www.google.com/maps/place/1585+Johnston+St,+Vancouver,+BC+V6H+3R9,+Canada>`_
+<https://www.google.com/maps/place/1585+Johnston+St,+Vancouver,+BC+V6H+3R9,+Canada>`_.
 
 The sprints on Wednesday, January 24th, is at a **different** venue:
 `#400 - 455 Granville Street.
-<https://www.google.com/maps/place/455+Granville+St,+Vancouver,+BC+V6C+1T1,+Canada>`_
-If you are joining in the ?ski? on Saturday, you'll meet the other ?skiers?
-at the ???. You can take
-public transportation or a taxi there.
+<https://www.google.com/maps/place/455+Granville+St,+Vancouver,+BC+V6C+1T1,+Canada>`_.
 
 **How should I get around?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -224,8 +219,6 @@ are some tips:
    them and questions for them. Either reach out by email before the
    conference to set up a meeting onsite or find them at the conference.
 
--  Attend the Welcome Wagon events.
-
 -  Attend the sprints and volunteer to help on one of the projects being worked on.
 
 -  Check out the talk schedule in advance and make note of the talks you
@@ -236,9 +229,6 @@ are some tips:
 
 **Sample strategy for a second or higher conference**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
--  Attend the Welcome Wagon events and share your conference knowledge.
-   You might learn something new yourself!
 
 -  Reach out to some first-time attendees and tell them about your first
    conference.

@@ -33,7 +33,7 @@ Pro Tips
    between talks, networking, and breaks.
 
 -  Speaking of breaks--conferences are exhilarating, but can also be
-   exhausting. Give your brain a break! Grab a quiet spot in the Upstairs Lounge
+   exhausting. Give your brain a break! Grab a quiet spot in the Backstage Lounge
    or take a quick walk. Play a board game on your lunch break. Come
    back invigorated.
 
@@ -100,7 +100,7 @@ highly recommend using public transit.
    focus on the talks and meeting people and don't have to worry about
    where to get your morning coffee.
 
--  Coffee, tea, and water are always available in the Upstairs Lounge.
+-  Coffee, tea, and water are always available in the Backstage Lounge.
    Bring a water bottle to make it easier for you to stay hydrated.
 
 -  Lunch is not provided. It will be a great opportunity to try out a variety

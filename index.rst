@@ -84,7 +84,24 @@ ferries available. There are also two private companies that operate small ferri
 across False Creek.
 
 At the moment, there is no ridesharing service like Uber or Lyft in Vancouver. We
-highly recommend using public transit.
+highly recommend using public transit. Taking public transit requires a `Compass Card.
+<https://www.translink.ca/Fares-and-Passes/Compass-Card.aspx>`_.
+
+Car sharing services are available, though you will need to sign up ahead of time
+and verify your driver's license.
+
+ - `Car2Go <https://www.car2go.com/CA/en/vancouver/>`_.
+ - `Evo Carshare <https://www.evo.ca/>`_.
+
+A bike share program with a day pass option is also available:
+
+- `Mobi Bikes <https://www.mobibikes.ca/>`_. The current promo code is TODO
+
+If you are driving, free parking on Granville Island is limited between
+1 to 3 hours depending on the location. A number of paid lots are nearby with
+all-day parking.
+
+  - `Parking Information <http://granvilleisland.com/parking-information>`_.
 
 **How should I dress?**
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -133,7 +150,9 @@ highly recommend using public transit.
 
 - `The Flying Pig <http://theflyingpigvan.com/>`_
 
-- `Edible Canada <https://ediblecanada.com/>`_
+- `Edible Canada <https://ediblecanada.com/>`_ (on Granville Island)
+
+- `Dockside Restaurant <https://docksidevancouver.com/>`_ (on Granville Island)
 
 - `Storm Crow <https://www.stormcrowalehouse.com/>`_
 
@@ -188,7 +207,7 @@ highly recommend using public transit.
 
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
-   `here <http://www.writethedocs.org/conf/na/2017/lightning-talks/?highlight=re>`_.
+   `here <http://www.writethedocs.org/conf/na/2017/lightning-talks/>`_.
 
 **How do I make the most out of this conference?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -84,7 +84,18 @@ ferries available. There are also two private companies that operate small ferri
 across False Creek.
 
 At the moment, there is no ridesharing service like Uber or Lyft in Vancouver. We
-highly recommend using public transit.
+highly recommend using public transit. Taking public transit requires a `Compass Card.
+<https://www.translink.ca/Fares-and-Passes/Compass-Card.aspx>`_.
+
+Car sharing services are available, though you will need to sign up ahead of time
+and verify your driver's license.
+
+ - `Car2Go <https://www.car2go.com/CA/en/vancouver/>`_.
+ - `Evo Carshare <https://www.evo.ca/>`_.
+
+A bike share program with a day pass option is also available:
+
+- `Mobi Bikes <https://www.mobibikes.ca/>`_. The current promo code is TODO
 
 **How should I dress?**
 ~~~~~~~~~~~~~~~~~~~~~~~

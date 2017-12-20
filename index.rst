@@ -45,6 +45,14 @@ Pro Tips
    Check out the job board in ??.
 
 
+Other resource
+--------------
+
+.. toctree::
+
+   ski_trip
+
+
 FAQs
 ----
 

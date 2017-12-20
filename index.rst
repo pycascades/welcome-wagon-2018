@@ -1,3 +1,5 @@
+.. _index:
+
 PyCascades Welcome Wagon
 ========================
 
@@ -41,6 +43,14 @@ Pro Tips
 
 -  Are you looking for a job or is there an opening at your company?
    Check out the job board in ??.
+
+
+Other resource
+--------------
+
+.. toctree::
+
+   ski_trip
 
 
 FAQs
@@ -242,6 +252,12 @@ are some tips:
 
 -  Sign up for a lightning talk.
 
+**I heard there's a ski-trip?**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+More info :ref:`here <ski_trip>`.
+
+
 .. _say-hello-vancouver2018:
 
 Say hello
@@ -250,8 +266,6 @@ Say hello
 We'd love to say hi when you're at the conference.
 Come find us and ask any questions,
 or just chat about the conference!
-
-
 
 
 Thanks

@@ -153,7 +153,8 @@ highly recommend using public transit.
    a conversation starter with the speaker.
 
 -  After a talk, feel free to tweet about it with the hashtag
-   #pycascades. Try not to "watch" the conference through Twitter and
+   `#pycascades <https://twitter.com/hashtag/PyCascades?src=hash>`_.
+   Try not to "watch" the conference through Twitter and
    other social media, though. You are attending the conference, so live
    in it as much as you can!
 

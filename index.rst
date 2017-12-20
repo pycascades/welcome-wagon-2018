@@ -199,7 +199,7 @@ A bike share program with a day pass option is also available:
 
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
-   `here <http://www.writethedocs.org/conf/na/2017/lightning-talks/?highlight=re>`_.
+   `here <http://www.writethedocs.org/conf/na/2017/lightning-talks/>`_.
 
 **How do I make the most out of this conference?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

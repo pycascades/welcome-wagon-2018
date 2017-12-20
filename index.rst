@@ -144,7 +144,9 @@ A bike share program with a day pass option is also available:
 
 - `The Flying Pig <http://theflyingpigvan.com/>`_
 
-- `Edible Canada <https://ediblecanada.com/>`_
+- `Edible Canada <https://ediblecanada.com/>`_ (on Granville Island)
+
+- `Dockside Restaurant <https://docksidevancouver.com/>`_ (on Granville Island)
 
 - `Storm Crow <https://www.stormcrowalehouse.com/>`_
 

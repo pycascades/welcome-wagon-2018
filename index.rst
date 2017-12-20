@@ -97,6 +97,12 @@ A bike share program with a day pass option is also available:
 
 - `Mobi Bikes <https://www.mobibikes.ca/>`_. The current promo code is TODO
 
+If you are driving, free parking on Granville Island is limited between
+1 to 3 hours depending on the location. A number of paid lots are nearby with
+all-day parking.
+
+  - `Parking Information <http://granvilleisland.com/parking-information>`_.
+
 **How should I dress?**
 ~~~~~~~~~~~~~~~~~~~~~~~
 

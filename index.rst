@@ -52,8 +52,9 @@ FAQs
 **Where is everything?**
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-The pre-registration event takes place at ?? on Sunday, January 21st, 2018 at
-6 PM. More details to come.
+The pre-registration event takes place at `#420 725 Granville Street
+<https://www.google.ca/maps/place/725+Granville+St,+Vancouver,+BC+V6B>`_ on Sunday,
+January 21st, 2018 at 6 PM. More details to come.
 
 The main conference takes place in Granville Island Stage at `1585 Johnston
 Street.

@@ -67,11 +67,11 @@ The pre-registration event takes place at `#420 725 Granville Street
 January 21st, 2018 at 6 PM. More details to come.
 
 The main conference takes place in Granville Island Stage at `1585 Johnston
-Street.
+Street
 <https://www.google.com/maps/place/1585+Johnston+St,+Vancouver,+BC+V6H+3R9,+Canada>`_.
 
 The sprints on Wednesday, January 24th, is at a **different** venue:
-`#400 - 455 Granville Street.
+`#400 - 455 Granville Street
 <https://www.google.com/maps/place/455+Granville+St,+Vancouver,+BC+V6C+1T1,+Canada>`_.
 
 **How should I get around?**
@@ -84,7 +84,7 @@ ferries available. There are also two private companies that operate small ferri
 across False Creek.
 
 At the moment, there is no ridesharing service like Uber or Lyft in Vancouver. We
-highly recommend using public transit. Taking public transit requires a `Compass Card.
+highly recommend using public transit. Taking public transit requires a `Compass Card
 <https://www.translink.ca/Fares-and-Passes/Compass-Card.aspx>`_.
 
 Car sharing services are available, though you will need to sign up ahead of time

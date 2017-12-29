@@ -243,8 +243,7 @@ are some tips:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Join the `PyCascades Slack <http://pycascades-slack.herokuapp.com/>`_,
-   and participate in the Welcome Wagon chat room to start making
-   conference connections.
+   to start making conference connections.
 
 -  Make a list of two people who are attending with some notes about
    them and questions for them. Either reach out by email before the

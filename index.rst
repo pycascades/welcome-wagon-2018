@@ -45,12 +45,13 @@ Pro Tips
    Check out the job board in ??.
 
 
-Other resource
---------------
+Other resources
+---------------
 
 .. toctree::
 
    ski_trip
+   sprint
 
 
 FAQs

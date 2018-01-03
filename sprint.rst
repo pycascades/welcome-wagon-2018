@@ -8,16 +8,12 @@ Venue: `#400 - 455 Granville Street
 
 When: 9 AM - 5 PM
 
+Sprint coordinator: Timothy Crosley
+
 We have coffee, tea, and snack available. We're also working on some reward/token
 for each time you made a pull request to open source.
 
 Thank you for sprinting and contributing to open source!
-
-Sprint coordinator
-==================
-
-Timothy Crosley
-
 
 Projects
 ========

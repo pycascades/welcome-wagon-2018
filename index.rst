@@ -10,7 +10,7 @@ conference!
 Feel free to `tweet <https://twitter.com/pycascades>`_ at us.
 You can also email us at info@pycascades.com if we can help make your first time
 at the conference easier.
-Join us on `PyCascades Slack <http://pycascades-slack.herokuapp.com/>`_.
+Join us on `PyCascades Slack <http://bit.ly/pycascades-slack>`_.
 When you get to the conference,
 come :ref:`say hello <say-hello-vancouver2018>`.
 
@@ -220,7 +220,7 @@ people you meet. Set a goal for yourself to meet a few, new people. Here
 are some tips:
 
 -  Find out who is attending the conference before you get there. Join
-   the `PyCascades Slack <http://pycascades-slack.herokuapp.com/>`_, follow
+   the `PyCascades Slack <http://bit.ly/pycascades-slack/>`_, follow
    `PyCascades on Twitter <https://twitter.com/pycascades>`_,
    and review the `list of
    talks <https://www.pycascades.com/talks/>`_.
@@ -243,7 +243,7 @@ are some tips:
 **Sample strategy for my first PyCascades conference**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Join the `PyCascades Slack <http://pycascades-slack.herokuapp.com/>`_,
+-  Join the `PyCascades Slack <http://bit.ly/pycascades-slack>`_,
    to start making conference connections.
 
 -  Make a list of two people who are attending with some notes about

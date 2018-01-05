@@ -41,7 +41,7 @@ OpenSourceProject
 <any additional info>
 
 Live Coding in Python
------------------
+---------------------
 
 * Lead: Don Kirkby
 

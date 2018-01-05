@@ -1,7 +1,10 @@
 .. _sprint:
 
-Sprint
-======
+Sprint at PyCascades
+====================
+
+An opportunity to contribute to open source and to collaborate in person with other
+contributors and maintainers.
 
 Venue: `#400 - 455 Granville Street
 <https://www.google.com/maps/place/455+Granville+St,+Vancouver,+BC+V6C+1T1,+Canada>`_.
@@ -19,7 +22,8 @@ Projects
 ========
 
 Propose a `pull request <https://github.com/pycascades/welcome-wagon-2018>`_ to
-add your project.
+add your project. You can also discuss sprint on our #sprint channel on
+`Slack <http://bit.ly/pycascades-slack>`_.
 
 Example:
 

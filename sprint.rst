@@ -40,3 +40,18 @@ OpenSourceProject
 
 <any additional info>
 
+Live Coding in Python
+-----------------
+
+* Lead: Don Kirkby
+
+* Interested people: ??
+
+* Repo: https://github.com/donkirkby/live-py-plugin
+
+* Communication channel: GitHub issues or Twitter @donkirkby
+
+This project runs your Python code while you're typing it, so you get instant feedback. It runs as a PyCharm plugin, an Eclipse plugin, or an Emacs package. It currently displays variable values or turtle graphics, but I'm planning to add matplotlib support. For the sprint, I've labelled a few small issues that would be good for new contributors, and I'm also looking for contributions from matplotlib experts suggesting tutorial topics for the matplotlib support. Contributors looking for a larger challenge could look at adding live coding support to their favourite editor. The core of the project is some Python code that has already been wrapped for PyCharm, Eclipse, and Emacs. It can be reused in vim, Atom, or whatever you use.
+
+Read more about the project or watch a demo video, by following the links in the repo's README file.
+

@@ -161,7 +161,11 @@ all-day parking.
 **Where should I sit?**
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  There are no reserved seats; feel free to sit anywhere.
+-  Some seats in the front row are reserved accessibility seating. These will
+   be clearly marked. If you have accessibility requirements, feel free to
+   take up one of these seats.
+   
+-  All other seats are unreserved; feel free to sit anywhere.
 
 -  If you can, show up early to the conference each morning to grab a
    seat inside the theatre. Introducing yourself to your

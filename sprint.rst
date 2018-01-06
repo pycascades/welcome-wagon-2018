@@ -9,7 +9,9 @@ contributors and maintainers.
 Venue: `#400 - 455 Granville Street
 <https://www.google.com/maps/place/455+Granville+St,+Vancouver,+BC+V6C+1T1,+Canada>`_.
 
-When: 9 AM - 5 PM
+When: Wednesday, January 24, 2018. 9 AM - 5 PM
+
+Who: Those registered to Sprint. Space is limited at the venue. Currently there is a waitlist.
 
 Sprint coordinator: Timothy Crosley
 

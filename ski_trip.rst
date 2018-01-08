@@ -30,6 +30,6 @@ Fill out this `form <https://goo.gl/forms/VQ9idq4dvJFzpAM02>`_ to help organize
 group activities for either Whistler or Cypress Mountain.
 
 Join the #ski-trip channel on PyCascades’s Slack. You may self-join using this
-`link <http://bit.ly/pycascades-slack>`_.
+`link <http://bit.ly/pycascades-slack/>`_.
 
 Back to the :ref:`Welcome Wagon <index>`.

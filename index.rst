@@ -304,4 +304,4 @@ these three documents were heavily used as a reference:
 
 * `Write The Docs Welcome Wagon <http://www.writethedocs.org/conf/portland/2018/welcome-wagon/>`_
 
-.. _PyCascades Slack: http://bit.ly/pycascades-slack/
+.. _PyCascades Slack: http://bit.ly/pycascades-slack

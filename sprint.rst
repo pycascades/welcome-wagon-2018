@@ -25,7 +25,7 @@ Projects
 
 Propose a `pull request <https://github.com/pycascades/welcome-wagon-2018>`_ to
 add your project. You can also discuss sprint on our #sprint channel on
-`Slack <http://bit.ly/pycascades-slack>`_.
+`Slack <http://bit.ly/pycascades-slack/>`_.
 
 Example:
 

@@ -57,3 +57,24 @@ This project runs your Python code while you're typing it, so you get instant fe
 
 Read more about the project or watch a demo video, by following the links in the repo's README file.
 
+
+Django Graph API
+-----------------
+
+* Lead: Arianne Dee, Stephen Burrows
+
+* Interested people: ??
+
+* Repo: https://github.com/melinath/django-graph-api
+
+* Communication channel: Slack `djangographapi <https://slack-djangographapi.now.sh/>`_
+
+* Docs: http://django-graph-api.readthedocs.io/en/latest/
+
+Django Graph API lets you quickly build GraphQL APIs in Python/Django.
+
+`What is GraphQL? <http://graphql.org/>`_
+
+We are currently on version 0.2 and are working towards supporting the entire `GraphQL specs <http://facebook.github.io/graphql/October2016/>`_.
+There will be a number of small issues to work on for `version 0.3 <https://github.com/melinath/django-graph-api/projects/4>`_ 
+with detailed descriptions and links to relevent documentation by Wednesday (sprint day).

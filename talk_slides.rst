@@ -22,7 +22,7 @@ From Monday
 From Tuesday
 ------------
 
-- Anna Schneider: Navigating Unconscious Bias
+- Anna Schneider: `Navigating Unconscious Bias <https://speakerdeck.com/aschn/navigating-unconscious-bias>`_
 - Sev Leonard: Can you please pass the data? IoT Communication with MicroPython
 - Kojo Idrissa: Python & Spreadsheets: Canadian Edition
 - Lukasz Langa: Gradual Typing of Production Applications

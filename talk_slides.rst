@@ -35,3 +35,6 @@ From Tuesday
 
 Lightning Talks
 ***************
+
+
+Back to the :ref:`Welcome Wagon <index>`.

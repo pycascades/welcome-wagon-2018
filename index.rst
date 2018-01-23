@@ -52,6 +52,7 @@ Other resources
 
    ski_trip
    sprint
+   talk_slides
 
 
 FAQs

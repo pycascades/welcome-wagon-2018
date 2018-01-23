@@ -17,13 +17,12 @@ From Monday
 - Anna Liao: RaspberryPy to RustyPi: Porting a Python Module to Rust
 - Brett Cannon: Setting Expectations for Open Source Participation
 
-Lightning Talks
-***************
+**Lightning Talks**
 
 From Tuesday
 ------------
 
-- Anna Schneider: Navigating Unconscious Bias
+- Anna Schneider: `Navigating Unconscious Bias <https://speakerdeck.com/aschn/navigating-unconscious-bias>`_
 - Sev Leonard: Can you please pass the data? IoT Communication with MicroPython
 - Kojo Idrissa: Python & Spreadsheets: Canadian Edition
 - Lukasz Langa: Gradual Typing of Production Applications
@@ -33,8 +32,6 @@ From Tuesday
 - Dhruv Govil: Python for Feature Film
 - Kenneth Love: Those Who Care, Teach!
 
-Lightning Talks
-***************
-
+**Lightning Talks**
 
 Back to the :ref:`Welcome Wagon <index>`.

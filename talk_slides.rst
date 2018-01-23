@@ -10,7 +10,7 @@ From Monday
 - Holly Becker: Can I Use That Code? Software Licenses as a User
 - Nicholas Hunt-Walker: `A Web App in Four Frameworks <https://docs.google.com/presentation/d/1LkAkmpUu_vqc1h8FxxKRyEH59A-8-7ss88-Z9Wkk_ms/edit#slide=id.p>`_
 - Emily Morehouse-Valcarcel: The AST and Me
-- Nick Denny: `It's a Kind of Magic <https://www.dropbox.com/s/qdbrdv7zjsrjp7o/PyCascades%20-%20Its%20A%20Kind%20of%20Magic.pptx>`_slides
+- Nick Denny: `It's a Kind of Magic <https://www.dropbox.com/s/qdbrdv7zjsrjp7o/PyCascades%20-%20Its%20A%20Kind%20of%20Magic.pptx>`_
 - Stephanie Kim: Racial Bias in Facial Recognition Software
 - Thomas Ballinger: Python is not Java or C++
 - Lindsey Dragun: Bad Accessibility Happens - That Doesn't Have to Be the End

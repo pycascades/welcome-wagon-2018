@@ -17,8 +17,7 @@ From Monday
 - Anna Liao: RaspberryPy to RustyPi: Porting a Python Module to Rust
 - Brett Cannon: Setting Expectations for Open Source Participation
 
-Lightning Talks
-***************
+**Lightning Talks**
 
 From Tuesday
 ------------
@@ -33,8 +32,6 @@ From Tuesday
 - Dhruv Govil: Python for Feature Film
 - Kenneth Love: Those Who Care, Teach!
 
-Lightning Talks
-***************
-
+**Lightning Talks**
 
 Back to the :ref:`Welcome Wagon <index>`.

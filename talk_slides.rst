@@ -27,7 +27,7 @@ From Tuesday
 - Sev Leonard: Can you please pass the data? IoT Communication with MicroPython
 - Kojo Idrissa: Python & Spreadsheets: Canadian Edition
 - Lukasz Langa: Gradual Typing of Production Applications
-- Rachael Tatman: Character Encoding and You
+- Rachael Tatman: `Character Encoding and You <https://docs.google.com/presentation/d/17xwPZrnGo5xGUXf_HkxFUTAE2SPisHQd7LcRWyYCL6I/edit#slide=id.p>`_
 - Yusuke Tsutsumi: Taming the Hydra: How we Learned to Love Testing a Giant Python Codebase
 - Karina Ruzinov: Shipping Secret Messages through Barcodes
 - Dhruv Govil: Python for Feature Film

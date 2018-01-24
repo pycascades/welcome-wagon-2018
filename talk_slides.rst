@@ -25,7 +25,7 @@ From Tuesday
 - Anna Schneider: `Navigating Unconscious Bias <https://speakerdeck.com/aschn/navigating-unconscious-bias>`_
 - Sev Leonard: `Can you please pass the data? IoT Communication with MicroPython <https://github.com/gizm00/pycascades_2018/blob/master/pycascades%20talk%20just%20slides.pdf>`_
 - Kojo Idrissa: Python & Spreadsheets: Canadian Edition
-- Lukasz Langa: Gradual Typing of Production Applications
+- Łukasz Langa: `Gradual Typing of Production Applications <fb.me/gradual-typing>`_
 - Rachael Tatman: `Character Encoding and You <https://docs.google.com/presentation/d/17xwPZrnGo5xGUXf_HkxFUTAE2SPisHQd7LcRWyYCL6I/edit#slide=id.p>`_
 - Yusuke Tsutsumi: `Taming the Hydra: How we Learned to Love Testing a Giant Python Codebase <https://docs.google.com/presentation/d/1nDIzNuuFXsLIRIT2xCJG55WSRKThY1jZlJg9mVv1hs0/edit?usp=sharing>`_
 - Karina Ruzinov: Shipping Secret Messages through Barcodes

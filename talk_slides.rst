@@ -9,7 +9,7 @@ From Monday
 - Guido Van Rossum: `BDFL Python 3 Retrospective <https://www.dropbox.com/s/6dt5kgk3vjsi3yf/PyCascades2018.pptx?dl=0>`_
 - Holly Becker: Can I Use That Code? Software Licenses as a User
 - Nicholas Hunt-Walker: `A Web App in Four Frameworks <https://docs.google.com/presentation/d/1LkAkmpUu_vqc1h8FxxKRyEH59A-8-7ss88-Z9Wkk_ms/edit#slide=id.p>`_
-- Emily Morehouse-Valcarcel: The AST and Me
+- Emily Morehouse-Valcarcel: `The AST and Me <https://emilyemorehouse.github.io/ast-and-me>`_
 - Nick Denny: `It's a Kind of Magic <https://www.dropbox.com/s/qdbrdv7zjsrjp7o/PyCascades%20-%20Its%20A%20Kind%20of%20Magic.pptx>`_
 - Stephanie Kim: Racial Bias in Facial Recognition Software
 - Thomas Ballinger: Python is not Java or C++
@@ -27,7 +27,7 @@ From Tuesday
 - Kojo Idrissa: Python & Spreadsheets: Canadian Edition
 	-  `PDF <https://github.com/kojoidrissa/pycascades_2018/blob/master/pycascades_2018.pdf>`_
 	-  `Keynote <https://github.com/kojoidrissa/pycascades_2018/blob/master/pycascades_2018.key>`_
-- Lukasz Langa: Gradual Typing of Production Applications
+- Łukasz Langa: `Gradual Typing of Production Applications <fb.me/gradual-typing>`_
 - Rachael Tatman: `Character Encoding and You <https://docs.google.com/presentation/d/17xwPZrnGo5xGUXf_HkxFUTAE2SPisHQd7LcRWyYCL6I/edit#slide=id.p>`_
 - Yusuke Tsutsumi: `Taming the Hydra: How we Learned to Love Testing a Giant Python Codebase <https://docs.google.com/presentation/d/1nDIzNuuFXsLIRIT2xCJG55WSRKThY1jZlJg9mVv1hs0/edit?usp=sharing>`_
 - Karina Ruzinov: Shipping Secret Messages through Barcodes

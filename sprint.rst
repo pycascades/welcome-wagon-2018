@@ -78,3 +78,20 @@ Django Graph API lets you quickly build GraphQL APIs in Python/Django.
 We are currently on version 0.2 and are working towards supporting the entire `GraphQL specs <http://facebook.github.io/graphql/October2016/>`_.
 There will be a number of small issues to work on for `version 0.3 <https://github.com/melinath/django-graph-api/projects/4>`_ 
 with detailed descriptions and links to relevent documentation by Wednesday (sprint day).
+
+
+Chalice
+-------
+
+* Lead: Kyle Knapp
+
+* Interested people: ??
+
+* Repo: https://github.com/aws/chalice
+
+* Communication channel: GitHub repository or tweet at @thekyleknapp
+
+Chalice is a python serverless microframework for AWS. It allows you to quickly
+create and deploy applications that use Amazon API Gateway and AWS Lambda. I
+also work on ``boto3`` and the AWS CLI so feel free to stop by want to talk about
+any of these projects as well.

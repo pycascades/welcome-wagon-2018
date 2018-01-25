@@ -14,7 +14,7 @@ From Monday
 - Stephanie Kim: Racial Bias in Facial Recognition Software
 - Thomas Ballinger: `Python is not Java or C++ <http://ballingt.com/python-second-language-empathy/>`_
 - Lindsey Dragun: Bad Accessibility Happens - That Doesn't Have to Be the End
-- Anna Liao: RaspberryPy to RustyPi: Porting a Python Module to Rust
+- Anna Liao: `RaspberryPy to RustyPi: Porting a Python Module to Rust <https://www.slideshare.net/secret/lUQ7YxnKo6C8Od>`_
 - Brett Cannon: Setting Expectations for Open Source Participation
 
 **Lightning Talks**

@@ -13,7 +13,7 @@ From Monday
 - Nick Denny: `It's a Kind of Magic <https://www.dropbox.com/s/qdbrdv7zjsrjp7o/PyCascades%20-%20Its%20A%20Kind%20of%20Magic.pptx>`_
 - Stephanie Kim: Racial Bias in Facial Recognition Software
 - Thomas Ballinger: `Python is not Java or C++ <http://ballingt.com/python-second-language-empathy/>`_
-- Lindsey Dragun: Bad Accessibility Happens - That Doesn't Have to Be the End
+- Lindsey Dragun: `Bad Accessibility Happens - That Doesn't Have to Be the End <http://dragun.tech/pycascades>`_
 - Anna Liao: `RaspberryPy to RustyPi: Porting a Python Module to Rust <https://www.slideshare.net/secret/lUQ7YxnKo6C8Od>`_
 - Brett Cannon: `Setting Expectations for Open Source Participation <https://1drv.ms/p/s!AuLa5uNMb8nshH5nSpw6ruGUbPjD>`_
 

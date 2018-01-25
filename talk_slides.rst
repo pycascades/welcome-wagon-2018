@@ -6,6 +6,7 @@ Slides for PyCascades 2018
 From Monday
 -----------
 
+- Eric Holscher & Mariatta Wijaya: `Welcome to PyCascades <https://docs.google.com/presentation/d/e/2PACX-1vRY1mv8fx9IF7J1VMuP_didTuzObSnKMtrn5ymYimts6Veu1k_eRJLC3nYl5DQBtnbRaR4KKZmYYFDp/pub?start=false&loop=false&delayms=3000>`_
 - Guido Van Rossum: `BDFL Python 3 Retrospective <https://www.dropbox.com/s/6dt5kgk3vjsi3yf/PyCascades2018.pptx?dl=0>`_
 - Holly Becker: `Can I Use That Code? Software Licenses as a User <https://docs.google.com/presentation/d/1NGAzLPPOPS6v_q8mLxjJpJphoEAfV9Cs4FEVzM9JWKs/edit#slide=id.p>`_
 - Nicholas Hunt-Walker: `A Web App in Four Frameworks <https://docs.google.com/presentation/d/1LkAkmpUu_vqc1h8FxxKRyEH59A-8-7ss88-Z9Wkk_ms/edit#slide=id.p>`_

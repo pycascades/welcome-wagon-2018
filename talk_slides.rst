@@ -15,7 +15,7 @@ From Monday
 - Thomas Ballinger: `Python is not Java or C++ <http://ballingt.com/python-second-language-empathy/>`_
 - Lindsey Dragun: Bad Accessibility Happens - That Doesn't Have to Be the End
 - Anna Liao: RaspberryPy to RustyPi: Porting a Python Module to Rust
-- Brett Cannon: Setting Expectations for Open Source Participation
+- Brett Cannon: `Setting Expectations for Open Source Participation <https://1drv.ms/p/s!AuLa5uNMb8nshH5nSpw6ruGUbPjD>`_
 
 **Lightning Talks**
 

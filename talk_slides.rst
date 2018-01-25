@@ -15,7 +15,7 @@ From Monday
 - Thomas Ballinger: `Python is not Java or C++ <http://ballingt.com/python-second-language-empathy/>`_
 - Lindsey Dragun: Bad Accessibility Happens - That Doesn't Have to Be the End
 - Anna Liao: `RaspberryPy to RustyPi: Porting a Python Module to Rust <https://www.slideshare.net/secret/lUQ7YxnKo6C8Od>`_
-- Brett Cannon: Setting Expectations for Open Source Participation
+- Brett Cannon: `Setting Expectations for Open Source Participation <https://1drv.ms/p/s!AuLa5uNMb8nshH5nSpw6ruGUbPjD>`_
 
 **Lightning Talks**
 
@@ -27,7 +27,7 @@ From Tuesday
 - Kojo Idrissa: Python & Spreadsheets: Canadian Edition
 	-  `PDF <https://github.com/kojoidrissa/pycascades_2018/blob/master/pycascades_2018.pdf>`_
 	-  `Keynote <https://github.com/kojoidrissa/pycascades_2018/blob/master/pycascades_2018.key>`_
-- Łukasz Langa: `Gradual Typing of Production Applications <fb.me/gradual-typing>`_
+- Łukasz Langa: `Gradual Typing of Production Applications <http://fb.me/gradual-typing>`_
 - Rachael Tatman: `Character Encoding and You <https://docs.google.com/presentation/d/17xwPZrnGo5xGUXf_HkxFUTAE2SPisHQd7LcRWyYCL6I/edit#slide=id.p>`_
 - Yusuke Tsutsumi: `Taming the Hydra: How we Learned to Love Testing a Giant Python Codebase <https://docs.google.com/presentation/d/1nDIzNuuFXsLIRIT2xCJG55WSRKThY1jZlJg9mVv1hs0/edit?usp=sharing>`_
 - Karina Ruzinov: Shipping Secret Messages through Barcodes

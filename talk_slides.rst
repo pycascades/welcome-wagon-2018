@@ -27,7 +27,7 @@ From Tuesday
 - Kojo Idrissa: Python & Spreadsheets: Canadian Edition
 	-  `PDF <https://github.com/kojoidrissa/pycascades_2018/blob/master/pycascades_2018.pdf>`_
 	-  `Keynote <https://github.com/kojoidrissa/pycascades_2018/blob/master/pycascades_2018.key>`_
-- Łukasz Langa: `Gradual Typing of Production Applications <fb.me/gradual-typing>`_
+- Łukasz Langa: `Gradual Typing of Production Applications <http://fb.me/gradual-typing>`_
 - Rachael Tatman: `Character Encoding and You <https://docs.google.com/presentation/d/17xwPZrnGo5xGUXf_HkxFUTAE2SPisHQd7LcRWyYCL6I/edit#slide=id.p>`_
 - Yusuke Tsutsumi: `Taming the Hydra: How we Learned to Love Testing a Giant Python Codebase <https://docs.google.com/presentation/d/1nDIzNuuFXsLIRIT2xCJG55WSRKThY1jZlJg9mVv1hs0/edit?usp=sharing>`_
 - Karina Ruzinov: Shipping Secret Messages through Barcodes

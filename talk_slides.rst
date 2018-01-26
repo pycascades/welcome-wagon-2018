@@ -11,7 +11,7 @@ From Monday
 - Nicholas Hunt-Walker: `A Web App in Four Frameworks <https://docs.google.com/presentation/d/1LkAkmpUu_vqc1h8FxxKRyEH59A-8-7ss88-Z9Wkk_ms/edit#slide=id.p>`_
 - Emily Morehouse-Valcarcel: `The AST and Me <https://emilyemorehouse.github.io/ast-and-me>`_
 - Nick Denny: `It's a Kind of Magic <https://www.dropbox.com/s/qdbrdv7zjsrjp7o/PyCascades%20-%20Its%20A%20Kind%20of%20Magic.pptx>`_
-- Stephanie Kim: Racial Bias in Facial Recognition Software
+- Stephanie Kim: `Racial Bias in Facial Recognition Software <https://blog.algorithmia.com/racial-bias-in-facial-recognition-software/>`_
 - Thomas Ballinger: `Python is not Java or C++ <http://ballingt.com/python-second-language-empathy/>`_
 - Lindsey Dragun: `Bad Accessibility Happens - That Doesn't Have to Be the End <http://dragun.tech/pycascades>`_
 - Anna Liao: `RaspberryPy to RustyPi: Porting a Python Module to Rust <https://www.slideshare.net/secret/lUQ7YxnKo6C8Od>`_

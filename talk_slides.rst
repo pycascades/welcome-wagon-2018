@@ -49,6 +49,6 @@ From Tuesday
 - Ann Kasper and Kiri Nichol
 - Jami Schwarzwalder: Crowd Sourcing Training Data for Machine Learning
 - Monica Raj
-- Isaiah Lakham
+- Isaiah Lankham
 
 Back to the :ref:`Welcome Wagon <index>`.

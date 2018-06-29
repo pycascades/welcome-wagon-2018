@@ -21,9 +21,8 @@ From Monday
 **Lightning Talks**
 
 - Tim Swast, Developer Relation @ Google Cloud: Python Community Insights With Public Data
-    - `PDF <https://drive.google.com/file/d/1NiGExqqOYoQkFfbepLbU6iulLTBQIcx8/view>`_
+    - `PDF slides <https://drive.google.com/file/d/1NiGExqqOYoQkFfbepLbU6iulLTBQIcx8/view>`_
     - `Jupyter Notebook <https://github.com/tswast/code-snippets/blob/master/2018/python-community-insights/Python%20Community%20Insights.ipynb>`_
-
 - Saul Pwanson
 - John Purcell
 - Mariatta Wijaya: `f-strings <https://speakerdeck.com/mariatta/f-strings>`_

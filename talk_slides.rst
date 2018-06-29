@@ -20,6 +20,14 @@ From Monday
 
 **Lightning Talks**
 
+- Saul Pwanson
+- John Purcell
+- Mariatta Wijaya: `f-strings <https://speakerdeck.com/mariatta/f-strings>`_
+- Alan Vezina: `PyCascades CoC Hotline <https://github.com/cache-rules/coc-hotline>`_
+- Arianne Dee
+- Yarko Tymciurak: `Community - from the inside-out <https://docs.google.com/presentation/d/1mN142UrU9nSjf6eZiPgDDbopVn-8N1vgGnNsKkTtNk4/edit#slide=id.p3>`_
+
+
 From Tuesday
 ------------
 
@@ -36,5 +44,11 @@ From Tuesday
 - Kenneth Love: Those Who Care, Teach!
 
 **Lightning Talks**
+
+- Chris Life
+- Ann Kasper and Kiri Nichol
+- Jami Schwarzwalder: Crowd Sourcing Training Data for Machine Learning
+- Monica Raj
+- Isaiah Lakham
 
 Back to the :ref:`Welcome Wagon <index>`.

@@ -20,13 +20,17 @@ From Monday
 
 **Lightning Talks**
 
+- Tim Swast, Developer Relation @ Google Cloud: Python Community Insights With Public Data   
+  - `PDF <https://drive.google.com/file/d/1NiGExqqOYoQkFfbepLbU6iulLTBQIcx8/view>`_
+  - `Jupyter Notebook <https://github.com/tswast/code-snippets/blob/master/2018/python-community-insights/Python%20Community%20Insights.ipynb>`_
 - Saul Pwanson
 - John Purcell
 - Mariatta Wijaya: `f-strings <https://speakerdeck.com/mariatta/f-strings>`_
 - Alan Vezina: `PyCascades CoC Hotline <https://github.com/cache-rules/coc-hotline>`_
 - Arianne Dee
 - Yarko Tymciurak: `Community - from the inside-out <https://docs.google.com/presentation/d/1mN142UrU9nSjf6eZiPgDDbopVn-8N1vgGnNsKkTtNk4/edit#slide=id.p3>`_
-
+- Slides: https://drive.google.com/file/d/1NiGExqqOYoQkFfbepLbU6iulLTBQIcx8/view?usp=sharing
+Notebook: https://github.com/tswast/code-snippets/blob/master/2018/python-community-insights/Python%20Community%20Insights.ipynb
 
 From Tuesday
 ------------

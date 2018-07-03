@@ -23,7 +23,8 @@ From Monday
 - Tim Swast, Developer Relation @ Google Cloud: Python Community Insights With Public Data
     - `PDF slides <https://drive.google.com/file/d/1NiGExqqOYoQkFfbepLbU6iulLTBQIcx8/view>`_
     - `Jupyter Notebook <https://github.com/tswast/code-snippets/blob/master/2018/python-community-insights/Python%20Community%20Insights.ipynb>`_
-- Saul Pwanson
+- Betsy Waliszewski, :download:`Python Software Foundation <./resources/PSF.pdf>`
+- Saul Pwanson, `VisiData Lightning Demo <http://visidata.org>`_
 - John Purcell
 - Mariatta Wijaya: `f-strings <https://speakerdeck.com/mariatta/f-strings>`_
 - Alan Vezina: `PyCascades CoC Hotline <https://github.com/cache-rules/coc-hotline>`_
@@ -47,9 +48,9 @@ From Tuesday
 
 **Lightning Talks**
 
-- Chris Life
+- Christopher Life, :download:`An Introduction to Pythons <./resources/an_introduction_to_pythons.pptx>`
 - Ann Kasper and Kiri Nichol
-- Jami Schwarzwalder: Crowd Sourcing Training Data for Machine Learning
+- Jami Schwarzwalder: :download:`Crowd Sourcing Training Data for Machine Learning <./resources/Crowd_Sourcing_Training_Data_For_Machine_Learning.pdf>`
 - Monica Raj
 - Isaiah Lankham
 
